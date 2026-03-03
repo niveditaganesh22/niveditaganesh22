@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nivedita</h1>
+<h1 align="center">Hi, I'm Nivedita 👋</h1>
 
 <p align="center">
 Cloud & DevOps Engineer building scalable, production-ready cloud infrastructure and automation systems.
